@@ -21,5 +21,5 @@ Python, OpenCV, dlib, DeepFace, YOLOv5
 - Shows how fatigue onset can be actively detected using visual indicators like eye and facial cues
 - Potential integration with other systems, such as dashboards or wearable sensors
 
-## Report 
-See detailed `Comparison_Report`for more in depth analysis on the accuracy of two different method and their full codes in `Fatigue_dectection_tool` in `MAR_EAR_Detection` and `Drowsiness_detection_yolov5` in `YOLOv5_Detection`
+## Reports 
+See the detailed `Comparison_Report`for an in-depth analysis of the accuracy between two methods. Full codes for each method can be found in the `MAR_EAR_Detection` and `YOLOv5_Detection` folders. Some example log file produced by these methods is also available in the `Reports` folder.
